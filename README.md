@@ -72,7 +72,7 @@ $ git clone https://github.com/amarquaye/AirBnB_clone.git
 |[help](./console.py)| Prints information about specific command |
 |[quit/ EOF](./console.py)| Exit the program |
 
-###### Example No.1
+###### Example No.1 
 
 ```
 ➜  AirBnB_clone git:(feature) ✗ ./console.py
